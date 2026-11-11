@@ -1,0 +1,26 @@
+Inkshift — The Sky Fractures: credits
+
+Picture
+- Everything on screen is drawn by the code in this folder (three.js scenes, custom shaders, Canvas 2D). No images, models,
+  textures, fonts or video are loaded. The reference image used while designing the style was not used in any frame.
+- three.js r170 (MIT) — https://github.com/mrdoob/three.js
+- Lemo-Opuscar core render tools and core/lib.js helpers (MIT, see LICENSE at the repository root).
+
+Sound (ElevenLabs sound effects, eleven_text_to_sound_v2, generated on the author's account; files in demo/audio/, not in git)
+- amb_city (9 s, loop, influence 0.45): Night on a high city rooftop: distant traffic hum far below, soft steady wind across
+  the roof, one faint far-off siren, no voices, calm and wide
+- crack_tick (1.5 s, 0.6): A thin bright crackle high in the sky, like a sheet of paper and thin glass beginning to split far
+  away, delicate, with a faint shimmering ring
+- crack_run (1.2 s, 0.55): A fast crackling split racing downward, dry paper and thin ice tearing, sizzling and rising in
+  pitch, ending abruptly
+- fracture (3 s, 0.5): One violent rip of a huge sheet of thick paper, layered with a deep sub-bass boom and a sharp
+  controlled impact, then a low tonal swell that bends slowly downward, cinematic
+- rise (4.5 s, 0.45): Massive buildings slowly lifting off the ground into the sky: deep groaning rumble, creaking steel,
+  crumbling concrete, reversed debris whooshes drifting upward, dreamlike and cinematic
+- echo (1.8 s, 0.55): A short reversed swell into a soft slightly detuned glassy chime with a spacious slapback echo,
+  ethereal, fragments drifting left and right
+- reveal (2.2 s, 0.5): A low cinematic orchestral swell of warm brass and low strings that shifts from a dark minor chord to
+  a bright open chord, short and resonant
+- drone (8.5 s, 0.45): Deep cinematic tension drone, low strings and a soft analog synth pad, slowly rising and mysterious,
+  no percussion
+- reach (1 s, 0.55): A heavy wool coat sleeve rustling as an arm lifts quickly, with a small sharp intake of breath

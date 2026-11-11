@@ -1,0 +1,19 @@
+{
+ "stability_locked_camera_changed_pct": 0.0,
+ "hairline_on_twos": {
+  "frame1_vs_frame2_changed_pct": 0.0,
+  "frame2_vs_frame3_changed_pct": 0.5137
+ },
+ "determinism_max_diff": 0.0,
+ "frames": 192,
+ "black_frames_before_cut": [],
+ "max_luma_step_outside_events": 1.74,
+ "twinkle_reported": {
+  "ordinary world": 0.1,
+  "anomaly": 0.796,
+  "fracture": 0.346,
+  "reaction": 0.794,
+  "final image": 0.049
+ },
+ "pass": true
+}
